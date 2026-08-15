@@ -1,0 +1,6 @@
+{
+  "name": "موسوعة التاريخ الإسلامي",
+  "description": "موسوعة شاملة للخلفاء الراشدين، القادة العسكريين، الخلفاء والسلاطين، والعلماء، مع خريطة العالم التفاعلية للمعارك وسجل الدول الإسلامية عبر العصور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
